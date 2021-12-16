@@ -1,0 +1,1 @@
+# Scrape_assincrono_e_paralelo
